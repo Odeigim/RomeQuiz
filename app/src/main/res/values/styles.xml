@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#c88c15</item>
+        <item name="colorPrimaryDark">#B71C1C</item>
+        <item name="colorAccent">#c88c15</item>
+        <item name="checkboxStyle">@android:style/Widget.CompoundButton.RadioButton</item>
+        <item name="colorButtonNormal">#c88c15</item>
+        <item name="android:fontFamily">monospace</item>
+    </style>
+
+
+</resources>

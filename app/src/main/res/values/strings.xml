@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Rome Quiz</string>
+    <string name="welcome_text">Ave civilian, write your name and start the quiz</string>
+    <string name="user_name"> Enter your name </string>
+    <string name="submitAnswers">Submit Answers</string>
+    <string name="you_answered">You answered correctly to </string>
+    <string name="of_questions"> of 8 questions!</string>
+    <string name="ave"> Ave, </string>
+    <string name="thanks"> ! Thanks for participating </string>
+    <string name="avescore"> Hello, here is the score of </string>
+    <string name="avescore2"> with </string>
+    <string name="avescore3"> points of a total of 8</string>
+    <string name="share">  Share </string>
+
+    <string name="question1">1. What means the famous Julius Caesar’s quote “Veni, vidi, vici”?</string>
+    <string name="q1answer1">I came, I lived, I died</string>
+    <string name="q1answer2">I came, I showed, I won</string>
+    <string name="q1answer3">Wine, life, vice</string>
+    <string name="q1answer4">I came, I saw, I conquered</string>
+
+    <string name="question2">2. Aurelian reunited the Roman Empire when he conquered the separatists of:</string>
+    <string name="q2answer1">Gaelic Empire</string>
+    <string name="q2answer2">British Empire</string>
+    <string name="q2answer3">Iberian Empire</string>
+    <string name="q2answer4">Palmyrene Empire</string>
+
+    <string name="question3">3. Which name receives the reforms of the roman legions that happened in 107 BC?</string>
+    <string name="q3answer1">Trajanian reforms</string>
+    <string name="q3answer2">Marian reforms</string>
+    <string name="q3answer3">Protestant reformation</string>
+    <string name="q3answer4">Caesarian reforms</string>
+
+    <string name="question4">4. Is said that this emperor had declared war to Neptune and sent legions to stab the sea.</string>
+    <string name="q4answer1">Nero</string>
+    <string name="q4answer2">Poseidon</string>
+    <string name="q4answer3">Elagabalus</string>
+    <string name="q4answer4">Caligula</string>
+
+    <string name="question5">5. When did the Roman Republic ends and consecuently the Roman Empire starts?</string>
+    <string name="q5answer1">476</string>
+    <string name="q5answer2">0</string>
+    <string name="q5answer3">27 BC</string>
+    <string name="q5answer4">507 BC</string>
+
+    <string name="question6">6. What was the real name of Scipio Africanus?</string>
+    <string name="q6answer1">Publius Cornelius</string>
+    <string name="q6answer2">Lucius Cornelius</string>
+    <string name="q6answer3">Marcus Cornelius</string>
+    <string name="q6answer4">Muhammad Cornelius</string>
+
+    <string name="question7">7. Constantine The Great gave this name to the new capital city of the Eastern Empire.</string>
+    <string name="q7answer1">Dardanelles Gun</string>
+    <string name="q7answer2">Byzantium</string>
+    <string name="q7answer3">Constantinople</string>
+    <string name="q7answer4">Nova Roma</string>
+
+    <string name="question8">8. When and by who was the city of Rome sacked?</string>
+    <string name="q8answer1">410 by Visigoths</string>
+    <string name="q8answer2">2014 by Bayern Munich</string>
+    <string name="q8answer3">387 BC by Gauls</string>
+    <string name="q8answer4">203 BC by Carthaginians</string>
+</resources>
